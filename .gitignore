@@ -3,6 +3,5 @@ cifar-100-python/
 
 .ipynb_checkpoints/
 
-cifar100_LNN.onnx
-cifar_lnn.pt
+
 cifar_lnn.pth
